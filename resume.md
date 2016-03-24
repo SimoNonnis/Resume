@@ -19,6 +19,16 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] **React**, **Redux**, **GraphQL**
 - [x] **RxJS**, **CycleJS**, **FalcorJS**
 
+##Skills
+
+- [x] Html5
+- [x] Css3, BEM, SASS, Mobile Firts
+- [x] Gulp, Npm scripts, Webpack, Browserify
+- [x] Javascript
+- [x] React, Redux, GraphQL
+- [x] RxJS, CycleJS, FalcorJS
+- [x] SQL, MongoDB
+
 
 
 
