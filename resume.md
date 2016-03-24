@@ -5,9 +5,20 @@
 | https://robot2.org/ | SimonNonnis | SimoNonnis |
 
 
-| MAIL                 |MOBILE         |TWITTER    |SKYPE       |
-|:--------------------|:--------------|:----------|:-----------|
-| simononnis@gmail.com|(0)7563 927 412|@SimoNonnis|simon.nonnis|
+| MAIL                 | MOBILE         | TWITTER    | SKYPE        |
+|:-------------------- |:-------------- |:---------- |:------------ |
+| simononnis@gmail.com | (0)7563 927 412| @SimoNonnis| simon.nonnis |
+
+##PROFILE
+
+This Resume covers more than 6 years of experience working on the field of front-end development; designing, coding and learning along the way.
+
+I would welcome the opportunity to work for a vibrant and dynamic team, that loves to work with: 
+
+- [x] **Node**, **Express**, **Koa**
+- [x] **React**, **Redux**, **GraphQL**
+- [x] **RxJS**, **CycleJS**, **FalcorJS**
+
 
 
 
