@@ -1,8 +1,8 @@
 #SIMONPIETRO NONNIS 
 
-| WEBSITE             | CODEPEN     | GITHUB     |
-|:------------------- |:----------  |:-----------|
-| https://robot2.org/ | SimonNonnis | SimoNonnis |
+| WEBSITE             | CODEPEN        | GITHUB     |
+|:------------------- |:-------------- |:-----------|
+| https://robot2.org/ | SimonNonnis    | SimoNonnis |
 
 
 | MAIL                 | MOBILE         | TWITTER    | SKYPE        |
