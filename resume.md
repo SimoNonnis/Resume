@@ -15,9 +15,9 @@ This Resume covers more than 6 years of experience working on the field of front
 
 I would welcome the opportunity to work for a vibrant and dynamic team, that loves to work with: 
 
-- [x] **Node**, **Express**, **Koa**
-- [x] **React**, **Redux**, **GraphQL**
-- [x] **RxJS**, **CycleJS**, **FalcorJS**
+- [x] Node, Express, Koa
+- [x] React, Redux, GraphQL
+- [x] RxJS, CycleJS, FalcorJS
 
 ##Skills
 
