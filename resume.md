@@ -28,6 +28,8 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] React, Redux, GraphQL
 - [x] RxJS, CycleJS, FalcorJS
 - [x] SQL, MongoDB
+- [x] Git
+- [x] Wordpress
 
 
 
