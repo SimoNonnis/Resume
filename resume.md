@@ -35,7 +35,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 
 **Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**
 
-**Web Developer**
+**Web Developer, July 2013 - September 2015**
 
 
 
