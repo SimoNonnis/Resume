@@ -31,6 +31,12 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] Git
 - [x] Wordpress
 
+##Professional Experience
+
+**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**
+
+**Web Developer**
+
 
 
 
