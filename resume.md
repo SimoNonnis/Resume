@@ -33,9 +33,19 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 
 ##Professional Experience
 
-**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**
+**Full Stack Developer, October 2015 - Present**
+- JS
 
+**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**</br>
 **Web Developer, July 2013 - September 2015**
+- Maintain existing client websites, either statics or cms driven
+- Write an extremely fast and lightweight Wordpress theme from scratch
+- Develop a more efficient and effective workflow to develop websites
+- Develop new strategies to manage interaction beetwen graphic designers, developers, project managers
+- Work from PSDs created by the designer to develop and deploy landing pages and responsive websites in WordPress
+
+
+
 
 
 
