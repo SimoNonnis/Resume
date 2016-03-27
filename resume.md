@@ -51,14 +51,17 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 
 ##Education
 
-**IT Web Master Certification, Cagliari-Sardinia-Italy Post Graduated course in web sites development**</br>
+**IT Web Master Certification, Cagliari-Sardinia-Italy**</br>
 **2008 - 2009**
+
+Post Graduated course in web sites development
 
 **Università degli Studi di Cagliari Ba Honours in Natural Science-5 years**
 **2004**
 
 **Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy**</br> 
 **1990 - 1995**
+
 Attained equivalent of A Levels in: 
 - IT 
 - Mathematics
