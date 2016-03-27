@@ -49,6 +49,28 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - Acquire a deep understanding of usability, user experience design principles, white space balance
 - Develop a keen eye for details
 
+##Education
+
+**IT Web Master Certification, Cagliari-Sardinia-Italy Post Graduated course in web sites development**</br>
+**2008 - 2009**
+
+**Università degli Studi di Cagliari Ba Honours in Natural Science-5 years**
+**2004**
+
+**Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy**</br> 
+**1990 - 1995**
+Attained equivalent of A Levels in: 
+- IT 
+- Mathematics
+- Economics
+- Geopolitics
+- Philosophy 
+- History of Art 
+- Italian 
+- Ancient Latin language and literature
+- Ancient Greek language and literature
+
+
 
 
 
