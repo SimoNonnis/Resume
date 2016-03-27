@@ -44,6 +44,12 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - Develop new strategies to manage interaction beetwen graphic designers, developers, project managers
 - Work from PSDs created by the designer to develop and deploy landing pages and responsive websites in WordPress
 
+**Freelance Web Developer, 2009 - July 2013**
+- Learn Html, Css, RWD and mobile first approach, JQuery building a wide array of websites
+- Acquire a deep understanding of usability, user experience design principles, white space balance
+- Develop a keen eye for details
+
+
 
 
 
