@@ -30,6 +30,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] SQL, MongoDB
 - [x] Git
 - [x] Wordpress
+- [x] Trello
 
 ##Professional Experience
 
