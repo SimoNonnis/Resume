@@ -31,6 +31,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] Git
 - [x] Wordpress
 - [x] Trello
+- [x] Beanstalk
 
 ##Professional Experience
 
