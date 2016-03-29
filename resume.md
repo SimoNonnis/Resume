@@ -18,6 +18,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] Node, Express, Koa
 - [x] React, Redux, GraphQL
 - [x] RxJS, CycleJS, FalcorJS
+- [x] Elm
 
 ##Skills
 
@@ -27,6 +28,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] Javascript
 - [x] React, Redux, GraphQL
 - [x] RxJS, CycleJS, FalcorJS
+- [x] Elm
 - [x] SQL, MongoDB
 - [x] Git
 - [x] Wordpress
