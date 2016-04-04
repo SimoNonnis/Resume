@@ -38,7 +38,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 ##Professional Experience
 
 **Full Stack Developer, October 2015 - Present**
-- JS
+- Learn JS in deep
 
 **Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**</br>
 **Web Developer, July 2013 - September 2015**
