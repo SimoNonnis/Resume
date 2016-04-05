@@ -15,9 +15,9 @@ This Resume covers more than 6 years of experience working on the field of front
 
 I would welcome the opportunity to work for a vibrant and dynamic team, that loves to work with: 
 
-- [x] Node, Express, Koa
+- [x] Node, Express
 - [x] React, Redux, GraphQL
-- [x] RxJS, CycleJS, FalcorJS
+- [x] RxJS, CycleJS, Falcor
 - [x] Elm
 
 ##Skills
@@ -27,7 +27,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] Gulp, Npm scripts, Webpack, Browserify
 - [x] Javascript
 - [x] React, Redux, GraphQL
-- [x] RxJS, CycleJS, FalcorJS
+- [x] RxJS, CycleJS, Falcor
 - [x] Elm
 - [x] SQL, MongoDB
 - [x] Git
@@ -60,7 +60,7 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 
 Post Graduated course in web sites development
 
-**Università degli Studi di Cagliari Ba Honours in Natural Science-5 years**
+**Università degli Studi di Cagliari Ba Honours in Natural Science - 5 years**
 **2004**
 
 **Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy**</br> 
