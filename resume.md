@@ -13,11 +13,11 @@
 
 This Resume covers more than 6 years of experience working on the field of front-end development; designing, coding and learning along the way.
 
-I would welcome the opportunity to work for a vibrant and dynamic team, that loves to work with: 
+I would welcome the opportunity to work for a passionate, disciplined and dynamic team, that loves to work with: 
 
 - [x] Node, Express
 - [x] React, Redux, GraphQL
-- [x] RxJS, CycleJS, Falcor
+- [x] RxJS, Cycle.js, Falcor
 - [x] Elm
 
 ##Skills
@@ -27,10 +27,11 @@ I would welcome the opportunity to work for a vibrant and dynamic team, that lov
 - [x] Gulp, Npm scripts, Webpack, Browserify
 - [x] Javascript
 - [x] React, Redux, GraphQL
-- [x] RxJS, CycleJS, Falcor
+- [x] RxJS, Cycle.js, Falcor
 - [x] Elm
 - [x] SQL, MongoDB
 - [x] Git
+- [x] GitHub
 - [x] Wordpress
 - [x] Trello
 - [x] Beanstalk
