@@ -13,7 +13,7 @@
 
 This Resume covers more than 6 years of experience working on the field of front-end development; designing, coding and learning along the way.
 
-I would welcome the opportunity to work for a passionate, disciplined and dynamic team, that would love to work with: 
+I would welcome the opportunity to work for a passionate, disciplined and dynamic team, that loves to write clean code and willing to work with technologies like: 
 
 - [x] Node, Express
 - [x] React, Redux, GraphQL
