@@ -52,7 +52,7 @@ I would welcome the opportunity to work for a passionate, disciplined and dynami
 
 **Freelance Web Developer, 2009 - July 2013**
 - Learn Html, Css and JQuery building a wide array of websites
-- Acquire a deep understanding of usability, user experience design principles, white space balance
+- Acquire a deep understanding of usability, user experience design principles, typography, white space balance
 - Develop a keen eye for details
 
 ##Education
