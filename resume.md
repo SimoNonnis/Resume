@@ -62,7 +62,7 @@ I would welcome the opportunity to work for a passionate, disciplined and dynami
 
 Post Graduated course in web sites development
 
-**Università degli Studi di Cagliari Ba Honours in Natural Science - 5 years**
+**Natural Science BA (Hons) at Università degli Studi di Cagliari - 5 years**
 **2004**
 
 **Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy**</br> 
