@@ -69,13 +69,14 @@ Post Graduated course in web sites development
 **1990 - 1995**
 
 Attained equivalent of A Levels in: 
-- IT 
+- Programming 
 - Mathematics
+- Physics
+- Chemistry
 - Economics
 - Geopolitics
 - Philosophy 
 - History of Art 
-- Italian 
 - Ancient Latin language and literature
 - Ancient Greek language and literature
 
