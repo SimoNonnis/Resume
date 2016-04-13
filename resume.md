@@ -11,7 +11,8 @@
 
 ##PROFILE
 
-This Resume covers more than 6 years of experience working on the field of front-end development; designing, coding and learning along the way.
+This Resume covers more than 6 years of hands-on experience working on the field of front-end development. 
+Building state-of-the-art websites and always seeking out new technologies.
 
 I would welcome the opportunity to work for a passionate, disciplined and dynamic team, that loves to write clean code and willing to work with technologies like: 
 
