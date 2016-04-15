@@ -9,9 +9,9 @@ hoping to become the newest member of your engineering team.
 I looked through the requirements that you mentioned and they match very well my skill 
 areas, experience and attitudes. 
 
-My background is mostly in front-end development but in the past year I have turned my focus to full stack development in Javascript. 
-I love to solve big problems, splitting them in small ones and finding solutions
-that are simple and reusable.
+My background is mostly in front-end development but I am constantly looking to improve myself so in the past year I have turned my focus to full stack development in Javascript. 
+I love to solve big problems, splitting them in small ones and finding solutions that are simple and reusable. 
+
 
 I am confident that I can bring this passion into your company as well.
 I enjoy working in a team as well as working independently in office or remote.
