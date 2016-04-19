@@ -1,6 +1,6 @@
 #Cover Letter
 
-Subject: Front End Web Developer Position - Your Name
+Subject: .....Front End Web Developer Position - Your Name.....
 
 Dear Sir/Madam........,
 
@@ -25,6 +25,6 @@ Sincerely,
 Simonpietro Nonnis
 
 
-Your Name
-Your Phone Number
-Your Email
+....Your Name
+....Your Phone Number
+....Your Email
