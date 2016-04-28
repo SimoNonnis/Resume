@@ -12,9 +12,10 @@ areas, experience and attitudes.
 My background is mostly in front-end development but I am constantly looking to improve myself so in the past year I have turned my focus to full stack development in Javascript. 
 I love to solve big problems, splitting them in small ones and finding solutions that are simple and reusable. 
 
-
-I am confident that I can bring this passion into your company as well.
+I have a passion for contributing to all phases of the development lifecycle and 
+I am confident that I can bring it into your company as well.
 I enjoy working in a team as well as working independently in office or remote.
+
 I look forward to discussing this position with you in more detail. 
 Thank you for your consideration.
 
