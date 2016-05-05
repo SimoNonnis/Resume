@@ -25,7 +25,7 @@ I would welcome the opportunity to work for a passionate, disciplined and dynami
 
 - [x] Html5
 - [x] Css3, BEM, SASS, Mobile Firts
-- [x] Gulp, Npm scripts, Webpack, Browserify
+- [x] Gulp, Npm scripts, Webpack
 - [x] Javascript
 - [x] React, Redux, GraphQL
 - [x] RxJS, Cycle.js, Falcor
