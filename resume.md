@@ -11,10 +11,10 @@
 
 ##PROFILE
 
-This Resume covers more than 6 years of hands-on experience working on the field of front-end development. 
-Building state-of-the-art, high performance websites and always seeking out new technologies.
+This Resume covers more than 6 years of hands-on experience working on the field of front-end development, 
+building state-of-the-art, high performance websites and always seeking out new technologies.
 
-I would welcome the opportunity to work for a passionate, disciplined and dynamic team, that loves to write clean code and willing use technologies like: 
+I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like: 
 
 - [x] Node, Express
 - [x] React, Redux, GraphQL
@@ -24,7 +24,7 @@ I would welcome the opportunity to work for a passionate, disciplined and dynami
 ##Skills
 
 - [x] Html5
-- [x] Css3, BEM, SASS, Mobile Firts
+- [x] Css3, BEM, SASS, Mobile First
 - [x] Gulp, Npm scripts, Webpack
 - [x] Javascript
 - [x] React, Redux, GraphQL
