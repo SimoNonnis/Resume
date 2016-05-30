@@ -20,6 +20,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] React, Redux, GraphQL
 - [x] RxJS, Cycle.js, Falcor
 - [x] Elm
+- [x] CSS Modules
 
 ##Skills
 
