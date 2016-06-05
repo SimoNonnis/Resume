@@ -10,7 +10,7 @@ I looked through the requirements that you mentioned and they match very well my
 areas, experience and attitudes. 
 
 My background is mostly in front-end development but I am constantly looking to improve myself so in the past year I have turned my focus to full stack development in Javascript. 
-I love to solve big problems, splitting them in small ones and finding solutions that are simple and reusable. 
+I love to solve problems, splitting them in small ones and finding solutions that are simple and reusable. 
 
 I have a passion for contributing to all phases of the development lifecycle and 
 I am confident that I can bring it into your company as well.
