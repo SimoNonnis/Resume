@@ -45,6 +45,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 **Full Stack Developer, October 2015 - Present**
 - Learn JS in deep
 - Learn all things JS
+- Learn Haskell
 
 **Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**</br>
 **Web Developer, July 2013 - September 2015**
