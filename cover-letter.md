@@ -1,6 +1,6 @@
 #Cover Letter
 
-Subject: ....Front End Web Developer Position - Your Name.....
+Subject: ....Front End Web Developer Position - Your Name....
 
 Dear Sir/Madam........,
 
