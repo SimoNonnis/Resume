@@ -23,6 +23,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] Elm
 - [x] CSS Modules, cssnext
 - [x] D3.js
+- [x] Haskell
 
 ##Skills
 
