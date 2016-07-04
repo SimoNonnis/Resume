@@ -2,7 +2,7 @@
 
 Subject: ....Front End Web Developer Position - Your Name....
 
-Dear Sir/Madam........,
+Dear Sir/Madam.......,
 
 This letter is to express my interest in regards to the .......... position you posted on .....
 hoping to become the newest member of your engineering team.
