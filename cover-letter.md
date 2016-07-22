@@ -26,6 +26,4 @@ Sincerely,
 Simonpietro Nonnis
 
 
-....Your Name
 ....Your Phone Number
-....Your Email
