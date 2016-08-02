@@ -16,14 +16,13 @@ building state-of-the-art, high performance websites and always seeking out new 
 
 I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like: 
 
-- [x] Functional Programming in JS
-- [x] Node, Express
 - [x] React, Redux, GraphQL
-- [x] RxJS, Cycle.js, Falcor
-- [x] Elm
+- [x] Functional Programming in Javascript
 - [x] CSS Modules, cssnext
+- [x] Node
 - [x] D3.js
 - [x] Haskell
+- [x] Elm
 
 ##Skills
 
