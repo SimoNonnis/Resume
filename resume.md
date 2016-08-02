@@ -31,14 +31,16 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] Gulp, Webpack, Npm scripts
 - [x] Javascript
 - [x] React, Redux, GraphQL
-- [x] RxJS, Cycle.js, Falcor
-- [x] Elm
-- [x] SQL, MongoDB
 - [x] Git
 - [x] GitHub
 - [x] Wordpress
 - [x] Trello
 - [x] Beanstalk
+- 
+##Exposure to
+- [x] RxJS, Cycle.js, Falcor
+- [x] Haskell
+- [x] Elm
 
 ##Professional Experience
 
