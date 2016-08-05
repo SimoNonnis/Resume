@@ -1,6 +1,6 @@
 #Cover Letter
 
-Subject: ....Front End Web Developer Position - Your Name....
+Subject: Front End Web Developer Position - Your Name....
 
 Dear Sir/Madam.......,
 
@@ -12,7 +12,8 @@ areas, experience and attitudes.
 My background is mostly in front-end development but I am constantly looking to improve myself so in the past year I have turned my focus to full stack development in Javascript. 
 I love to solve problems, splitting them in small ones and finding solutions that are simple and reusable. 
 
-I have a passion for contributing to all phases of the development lifecycle and 
+I have experience and passion for contributing to all phases of the development lifecycle, 
+interacting with designers and project managers. 
 I am confident that I can bring it into your company as well.
 I enjoy working in a team as well as working independently in office or remote.
 
