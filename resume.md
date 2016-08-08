@@ -31,7 +31,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] CSS Modules, cssnext
 - [x] Gulp, Webpack, Npm scripts
 - [x] Javascript
-- [x] React, Redux, GraphQL
+- [x] React, Redux
 - [x] Git
 - [x] GitHub
 - [x] Wordpress
@@ -39,7 +39,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] Beanstalk
  
 ##Exposure to
-- [x] RxJS, Cycle.js, Falcor
+- [x] RxJS, Cycle.js, Falcor, GraphQL
 - [x] Haskell
 - [x] Elm
 
