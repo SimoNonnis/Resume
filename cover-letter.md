@@ -1,7 +1,3 @@
-#Cover Letter
-
-Subject: Front End Web Developer Position - Your Name....
-
 Dear Sir/Madam.......,
 
 This letter is to express my interest in regards to the .......... position,
@@ -9,7 +5,6 @@ hoping to become the newest member of your engineering team.
 I looked through the requirements that you mentioned and they match very well my skill 
 areas, experience and attitudes. 
 
-My background is mostly in front-end development but I am constantly looking to improve myself so in the past year I have turned my focus to full stack development in Javascript. 
 I love to solve problems, splitting them in small ones and finding solutions that are simple and reusable. 
 
 I have experience and passion for contributing to all phases of the development lifecycle, 
@@ -25,6 +20,3 @@ I’ve attached a copy of my resume that details my experience, along with my po
 Sincerely,
 
 Simonpietro Nonnis
-
-
-....Your Phone Number
