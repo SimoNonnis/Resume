@@ -7,7 +7,7 @@
 
 | MAIL                 | MOBILE         | TWITTER    | SKYPE          |
 |:-------------------- |:-------------- |:---------- |:-------------- |
-| simononnis@gmail.com | (0)7563 927 412| @SimoNonnis| simonpietro101 |
+| simononnis@gmail.com | +447563 927 412| @SimoNonnis| simonpietro101 |
 
 ##PROFILE
 
