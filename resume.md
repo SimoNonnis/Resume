@@ -75,6 +75,18 @@ Attained equivalent of A Levels in:
 - Ancient Greek language and literature
 
 
+#SIMONPIETRO NONNIS 
+
+| WEBSITE             | CODEPEN        | GITHUB     |
+|:------------------- |:-------------- |:-----------|
+| https://robot2.org/ | SimonNonnis    | SimoNonnis |
+
+
+| MAIL                 | MOBILE         | TWITTER    | SKYPE          |
+|:-------------------- |:-------------- |:---------- |:-------------- |
+| simononnis@gmail.com | +447563 927 412| @SimoNonnis| simonpietro101 |
+
+
 
 
 
