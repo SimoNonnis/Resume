@@ -19,7 +19,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 ##Skills
 
 - [x] **Html5**
-- [x] **Css3, BEM, SASS, Mobile First**
+- [x] **Css3, BEM, Scss, Mobile First**
 - [x] **CSS Modules, Cssnext**
 - [x] **Gulp, Webpack, Npm scripts**
 - [x] **Javascript**
