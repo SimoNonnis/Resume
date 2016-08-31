@@ -18,16 +18,16 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 
 ##Skills
 
-- [x] Html5
-- [x] Css3, BEM, SASS, Mobile First
-- [x] CSS Modules, cssnext
-- [x] Gulp, Webpack, Npm scripts
-- [x] Javascript
-- [x] React, Redux
-- [x] Git, GitHub
-- [x] Wordpress
-- [x] Trello
-- [x] Beanstalk
+- [x] **Html5**
+- [x] **Css3, BEM, SASS, Mobile First**
+- [x] **CSS Modules, Cssnext**
+- [x] **Gulp, Webpack, Npm scripts**
+- [x] **Javascript**
+- [x] **React, Redux**
+- [x] **Git, GitHub**
+- [x] **Wordpress**
+- [x] **Trello**
+- [x] **Beanstalk**
  
 ##Professional Experience
 
