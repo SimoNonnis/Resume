@@ -14,7 +14,7 @@
 This Resume covers more than 6 years of hands-on experience working on the field of front-end development, 
 building state-of-the-art, high performance websites and always seeking out new technologies.
 
-I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, GraphQL, Functional Programming in Javascript, CSS Modules, cssnext, Node, D3.js, RxJS, Haskell, Elm.
+I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, GraphQL, Functional Programming in Javascript, CSS Modules, Cssnext, Node, D3.js, RxJS, Haskell, Elm.
 
 ##Skills
 
@@ -32,22 +32,22 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 ##Professional Experience
 
 **Full Stack Developer, October 2015 - Present**
-- Learn Javascript in deep
-- Learn all things Javascript
-- Learn Haskell
+- Learned Javascript in deep
+- Learned all things Javascript
+- Learning Haskell
 
 **Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**</br>
 **Web Developer, July 2013 - September 2015**
-- Maintain existing client websites, either statics or cms driven
-- Write an extremely fast and lightweight Wordpress theme from scratch
-- Develop a more efficient and effective workflow to develop websites
-- Develop new strategies to manage interaction beetwen graphic designers, developers, project managers
-- Work from PSDs created by the designer to develop and deploy landing pages and responsive websites in WordPress
+- Maintained existing client websites, either statics or cms driven
+- Wrote an extremely fast and lightweight Wordpress theme from scratch
+- Developed a more efficient and effective workflow to develop websites
+- Developed new strategies to manage interaction beetwen graphic designers, developers, project managers
+- Worked from PSDs created by the designer to develop and deploy landing pages and responsive websites in WordPress
 
 **Freelance Web Developer, 2009 - July 2013**
-- Learn Html, Css and JQuery building a wide array of websites
-- Acquire a deep understanding of usability, user experience design principles, typography, white space balance
-- Develop a keen eye for details
+- Learned Html, Css and JQuery building a wide array of websites
+- Acquired a deep understanding of usability, user experience design principles, typography, white space balance
+- Developed a keen eye for details
 
 ##Education
 
