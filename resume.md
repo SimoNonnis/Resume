@@ -14,7 +14,7 @@
 This Resume covers more than 6 years of hands-on experience working on the field of front-end development, 
 building state-of-the-art, high performance websites and always seeking out new technologies.
 
-I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, GraphQL, Functional Programming in Javascript, CSS Modules, cssnext, Node, D3.js, Haskell, Elm.
+I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, GraphQL, Functional Programming in Javascript, CSS Modules, cssnext, Node, D3.js, RxJS, Haskell, Elm.
 
 ##Skills
 
@@ -29,11 +29,6 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] Trello
 - [x] Beanstalk
  
-##Exposure to
-- [x] RxJS, GraphQL
-- [x] Haskell
-- [x] Elm
-
 ##Professional Experience
 
 **Full Stack Developer, October 2015 - Present**
