@@ -2,12 +2,12 @@
 
 | WEBSITE             | CODEPEN        | GITHUB     |
 |:------------------- |:-------------- |:-----------|
-| https://robot2.org/ | SimonNonnis    | SimoNonnis |
+| [robot2](https://robot2.org/) | [SimonNonnis](http://codepen.io/SimonNonnis/)    | [SimoNonnis](https://github.com/SimoNonnis) |
 
 
 | MAIL                 | MOBILE         | TWITTER    | SKYPE          |
 |:-------------------- |:-------------- |:---------- |:-------------- |
-| simononnis@gmail.com | +447563 927 412| @SimoNonnis| simonpietro101 |
+| simononnis@gmail.com | +447563 927 412| [@SimoNonnis](https://twitter.com/SimoNonnis)| simonpietro101 |
 
 ##PROFILE
 
