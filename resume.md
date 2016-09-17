@@ -21,7 +21,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] **Html5**
 - [x] **Css3, BEM, Scss, Mobile First**
 - [x] **CSS Modules, Cssnext**
-- [x] **Gulp, Webpack, Npm scripts**
+- [x] **Webpack, Npm scripts, Gulp**
 - [x] **Javascript**
 - [x] **React, Redux**
 - [x] **Git, GitHub**
@@ -79,12 +79,12 @@ Attained equivalent of A Levels in:
 
 | WEBSITE             | CODEPEN        | GITHUB     |
 |:------------------- |:-------------- |:-----------|
-| https://robot2.org/ | SimonNonnis    | SimoNonnis |
+| [robot2](https://robot2.org/) | [SimonNonnis](http://codepen.io/SimonNonnis/)    | [SimoNonnis](https://github.com/SimoNonnis) |
 
 
 | MAIL                 | MOBILE         | TWITTER    | SKYPE          |
 |:-------------------- |:-------------- |:---------- |:-------------- |
-| simononnis@gmail.com | +447563 927 412| @SimoNonnis| simonpietro101 |
+| simononnis@gmail.com | +447563 927 412| [@SimoNonnis](https://twitter.com/SimoNonnis)| simonpietro101 |
 
 
 
