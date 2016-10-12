@@ -17,6 +17,10 @@ Thank you for your consideration.
 
 I’ve attached a copy of my resume that details my experience, along with my portfolio website.
 
+GitHub:    https://github.com/SimoNonnis
+CodePen:   http://codepen.io/SimonNonnis/
+Portfolio: https://robot2.org/
+
 Sincerely,
 
 Simonpietro Nonnis
