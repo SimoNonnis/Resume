@@ -31,10 +31,13 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
  
 ##Professional Experience
 
-**Full Stack Developer, October 2015 - Present**
-- Learned Javascript in deep
-- Learned all things Javascript
-- Learning Haskell
+**HouseSimple, Online Estate Agents, Sudbury, Suffolk, UK**</br>
+**JavaScript Developer, November 2016 - Present**
+- JavaScript/Css/Html
+
+**JavaScript Developer, October 2015 - October 2016**
+- Learned JavaScript in deep
+- Learned all things JavaScript
 
 **Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**</br>
 **Web Developer, July 2013 - September 2015**
