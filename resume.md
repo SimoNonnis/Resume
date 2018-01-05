@@ -11,10 +11,12 @@
 
 ##PROFILE
 
-This Resume covers more than 6 years of hands-on experience working on the field of front-end development, 
+This Resume covers more than 7 years of hands-on experience working on the field of front-end development, 
 building state-of-the-art, high performance websites and always seeking out new technologies.
 
 I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, GraphQL, Functional Programming in Javascript, CSS Modules, Cssnext, Node, D3.js, RxJS, Haskell, Elm.
+
+I perform at my best when pair programming and I love interacting with designers to build the best UX.
 
 ##Skills
 
@@ -28,6 +30,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 - [x] **Wordpress**
 - [x] **Trello**
 - [x] **Beanstalk**
+- [x] **JIRA**
  
 ##Professional Experience
 
