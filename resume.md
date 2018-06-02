@@ -7,14 +7,14 @@
 
 | MAIL                 | MOBILE         | SKYPE          |
 |:-------------------- |:-------------- |:-------------- |
-| simononnis@gmail.com | +447563 927 412| simonpietro101 |
+| simon.nonnis@protonmail.com | +447563 927 412| simonpietro101 |
 
 ##PROFILE
 
 This Resume covers more than 9 years of hands-on experience working on the field of front-end development, 
 building state-of-the-art web apps, components, websites and always seeking out new technologies.
 
-I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, Redux saga, Functional Programming in Javascript, Flexbox, Css grid layout, Styled components.
+I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, Redux saga, Functional programming in Javascript, Flexbox, Css grid layout, Styled components.
 
 I perform at my best when pair programming and I love interacting with designers to build the best UX.
 
@@ -88,9 +88,9 @@ Attained equivalent of A Levels in:
 | [robot2](https://robot2.org/) | [SimonNonnis](http://codepen.io/SimonNonnis/)    | [SimoNonnis](https://github.com/SimoNonnis) |
 
 
-| MAIL                 | MOBILE         | TWITTER    | SKYPE          |
-|:-------------------- |:-------------- |:---------- |:-------------- |
-| simononnis@gmail.com | +447563 927 412| [@SimoNonnis](https://twitter.com/SimoNonnis)| simonpietro101 |
+| MAIL                 | MOBILE         | SKYPE          |
+|:-------------------- |:-------------- |:-------------- |
+| simon.nonnis@protonmail.com | +447563 927 412| simonpietro101 |
 
 
 
