@@ -5,29 +5,29 @@
 | [robot2](https://robot2.org/) | [SimonNonnis](http://codepen.io/SimonNonnis/)    | [SimoNonnis](https://github.com/SimoNonnis) |
 
 
-| MAIL                 | MOBILE         | TWITTER    | SKYPE          |
-|:-------------------- |:-------------- |:---------- |:-------------- |
-| simononnis@gmail.com | +447563 927 412| [@SimoNonnis](https://twitter.com/SimoNonnis)| simonpietro101 |
+| MAIL                 | MOBILE         | SKYPE          |
+|:-------------------- |:-------------- |:-------------- |
+| simononnis@gmail.com | +447563 927 412| simonpietro101 |
 
 ##PROFILE
 
-This Resume covers more than 7 years of hands-on experience working on the field of front-end development, 
-building state-of-the-art, high performance websites and always seeking out new technologies.
+This Resume covers more than 9 years of hands-on experience working on the field of front-end development, 
+building state-of-the-art web apps, components, websites and always seeking out new technologies.
 
-I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, GraphQL, Functional Programming in Javascript, CSS Modules, Cssnext, Node, D3.js, RxJS, Haskell, Elm.
+I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing use technologies like React, Redux, Redux saga, Functional Programming in Javascript, Flexbox, Css grid layout, Styled components.
 
 I perform at my best when pair programming and I love interacting with designers to build the best UX.
 
 ##Skills
 
 - [x] **Html5**
-- [x] **Css3, BEM, Scss, Mobile First**
-- [x] **CSS Modules, Cssnext**
+- [x] **Css3, BEM, Flexbox, Mobile First**
+- [x] **Styled components, CSS Modules**
 - [x] **Webpack, Npm scripts, Gulp**
 - [x] **Javascript**
-- [x] **React, Redux**
-- [x] **Git, GitHub**
-- [x] **Wordpress**
+- [x] **React, Redux, Redux saga**
+- [x] **ImmutableJS**
+- [x] **Git, Bitbucket**
 - [x] **Trello**
 - [x] **Beanstalk**
 - [x] **JIRA**
