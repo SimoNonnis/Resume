@@ -36,7 +36,13 @@ I perform at my best when pair programming and I love interacting with designers
 
 **HouseSimple, Online Estate Agents, Sudbury, Suffolk, UK**</br>
 **JavaScript Developer, November 2016 - Present**
-- JavaScript/Css/Html
+- Built many forms, connected via API to the back-end, using React, Redux, Redux saga, Formik
+- Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
+- Developed an svg icon system with react components
+- Built an svg icon system used in the front-end
+- Developed a single page *package selection* app with a tally showing partial/total cost with Twig, html, css, Jquery
+- Worked on a vast array of static pages for the marketing site
+- Built the front-end of a *Sales predictor* feature using html, css3, vanilla JS, APIs
 
 **JavaScript Developer, October 2015 - October 2016**
 - Learned JavaScript in deep
