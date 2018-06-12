@@ -16,7 +16,7 @@ building state-of-the-art web apps, components, websites and always seeking out 
 
 I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing to use technologies like React, Redux, Redux saga, Functional programming in Javascript, Flexbox, Css grid layout, Styled components.
 
-I perform at my best when pair programming and I love interacting with designers to build the best UX.
+I perform at my best when pair programming and I love interacting with designers and back-end developers to deliver the best product possible.
 
 ##Skills
 
