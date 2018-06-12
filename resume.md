@@ -1,4 +1,4 @@
-#SIMONPIETRO NONNIS 
+# SIMONPIETRO NONNIS 
 
 | WEBSITE             | CODEPEN        | GITHUB     |
 |:------------------- |:-------------- |:-----------|
@@ -9,7 +9,7 @@
 |:-------------------- |:-------------- |:-------------- |
 | simon.nonnis@protonmail.com | +447563 927 412| simonpietro101 |
 
-##PROFILE
+## PROFILE
 
 This Resume covers more than 9 years of hands-on experience working on the field of front-end development, 
 building state-of-the-art web apps, components, websites and always seeking out new technologies.
@@ -18,7 +18,7 @@ I would welcome the opportunity to work for a passionate, disciplined and brave 
 
 I perform at my best when pair programming and I love interacting with designers and back-end developers to deliver the best product possible.
 
-##Skills
+## Skills
 
 - [x] **Html5**
 - [x] **Css3, BEM, Flexbox, Mobile First**
@@ -32,7 +32,7 @@ I perform at my best when pair programming and I love interacting with designers
 - [x] **Beanstalk**
 - [x] **JIRA**
  
-##Professional Experience
+## Professional Experience
 
 **HouseSimple, Online Estate Agents, Sudbury, Suffolk, UK**</br>
 **JavaScript Developer, November 2016 - Present**
@@ -61,7 +61,7 @@ I perform at my best when pair programming and I love interacting with designers
 - Acquired a deep understanding of usability, user experience design principles, typography, white space balance
 - Developed a keen eye for details
 
-##Education
+## Education
 
 **IT Web Master Certification, Cagliari-Sardinia-Italy**</br>
 **2008 - 2009**
@@ -87,7 +87,7 @@ Attained equivalent of A Levels in:
 - Ancient Greek language and literature
 
 
-#SIMONPIETRO NONNIS 
+# SIMONPIETRO NONNIS 
 
 | WEBSITE             | CODEPEN        | GITHUB     |
 |:------------------- |:-------------- |:-----------|
