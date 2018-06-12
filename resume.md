@@ -36,7 +36,7 @@ I perform at my best when pair programming and I love interacting with designers
 
 **HouseSimple, Online Estate Agents, Sudbury, Suffolk, UK**</br>
 **JavaScript Developer, November 2016 - Present**
-- Built many forms, connected via API to the back-end, using React, Redux, Redux saga, Formik
+- Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
 - Developed an svg icon system with react components
 - Built an svg icon system used in the front-end
