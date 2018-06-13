@@ -34,7 +34,7 @@ I perform at my best when pair programming and I love interacting with designers
  
 ## Professional Experience
 
-**HouseSimple, Online Estate Agents, Sudbury, Suffolk, UK**</br>
+**HouseSimple, Online Estate Agents, Colchester, UK**</br>
 **JavaScript Developer, November 2016 - Present**
 - Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
