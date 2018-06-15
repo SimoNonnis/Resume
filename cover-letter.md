@@ -8,7 +8,7 @@ areas, experience and attitudes.
 I love to solve problems, splitting them in small ones and finding solutions that are simple and reusable. 
 
 I have experience and passion for contributing to all phases of the development lifecycle, 
-interacting with designers and project managers. 
+interacting with designers, back-end developers and project managers. 
 I am confident that I can bring it into your company as well.
 I enjoy working in a team as well as working independently in office or remote.
 
