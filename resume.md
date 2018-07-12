@@ -31,8 +31,9 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - [x] **JIRA**
  
 ## Professional Experience
-**HouseSimple, Online Estate Agents, Colchester, UK**
+
 **JavaScript Developer, November 2016 - Present**
+*HouseSimple, Online Estate Agents, Colchester, UK*
 - Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
 - Developed an svg icon system with react components
@@ -45,8 +46,8 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - Learned JavaScript in deep
 - Learned all things JavaScript
 
-**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK
-Web Developer, July 2013 - September 2015**
+**Web Developer, July 2013 - September 2015**
+*Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK*
 - Maintained existing client websites, either statics or cms driven
 - Wrote an extremely fast and lightweight Wordpress theme from scratch
 - Developed a more efficient and effective workflow to develop websites
@@ -60,16 +61,13 @@ Web Developer, July 2013 - September 2015**
 
 ## Education
 
-**IT Web Master Certification, Cagliari-Sardinia-Italy
-2008 - 2009**
+**IT Web Master Certification, Cagliari-Sardinia-Italy | 2008/2009**
 
 Post Graduated course in web sites development
 
-**Natural Science BA (Hons) at Università degli Studi di Cagliari - 5 years
-2004**
+**Natural Science BA (Hons) at Università degli Studi di Cagliari | 5 years**
 
-**Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy
-1990 - 1995**
+**Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy | 1990/1995**
 
 Attained equivalent of A Levels in: 
 - Programming 
