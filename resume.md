@@ -28,8 +28,6 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - [x] **React, Redux, Redux saga**
 - [x] **ImmutableJS**
 - [x] **Git, Bitbucket**
-- [x] **Trello**
-- [x] **Beanstalk**
 - [x] **JIRA**
  
 ## Professional Experience
