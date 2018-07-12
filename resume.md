@@ -32,7 +32,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
  
 ## Professional Experience
 
-**HouseSimple, Online Estate Agents, Colchester, UK</br>
+**HouseSimple, Online Estate Agents, Colchester, UK
 JavaScript Developer, November 2016 - Present**
 - Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
@@ -46,7 +46,7 @@ JavaScript Developer, November 2016 - Present**
 - Learned JavaScript in deep
 - Learned all things JavaScript
 
-**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK</br>
+**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK
 Web Developer, July 2013 - September 2015**
 - Maintained existing client websites, either statics or cms driven
 - Wrote an extremely fast and lightweight Wordpress theme from scratch
@@ -61,15 +61,15 @@ Web Developer, July 2013 - September 2015**
 
 ## Education
 
-**IT Web Master Certification, Cagliari-Sardinia-Italy</br>
+**IT Web Master Certification, Cagliari-Sardinia-Italy
 2008 - 2009**
 
 Post Graduated course in web sites development
 
-**Natural Science BA (Hons) at Università degli Studi di Cagliari - 5 years</br>
+**Natural Science BA (Hons) at Università degli Studi di Cagliari - 5 years
 2004**
 
-**Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy</br> 
+**Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy
 1990 - 1995**
 
 Attained equivalent of A Levels in: 
@@ -83,14 +83,3 @@ Attained equivalent of A Levels in:
 - History of Art 
 - Ancient Latin language and literature
 - Ancient Greek language and literature
-
-
-
-
-
-
-
-
-
-
-
