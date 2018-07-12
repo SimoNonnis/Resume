@@ -87,11 +87,6 @@ Attained equivalent of A Levels in:
 - Ancient Greek language and literature
 
 
-| MAIL                 | MOBILE         | SKYPE          |
-|:-------------------- |:-------------- |:-------------- |
-| simon.nonnis@protonmail.com | +447563 927 412| simonpietro101 |
-
-
 
 
 
