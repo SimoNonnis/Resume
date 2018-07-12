@@ -32,8 +32,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
  
 ## Professional Experience
 
-**JavaScript Developer, November 2016 - Present**
-*HouseSimple, Online Estate Agents, Colchester, UK*
+**JavaScript Developer, November 2016 - Present | HouseSimple, Online Estate Agents, Colchester, UK**
 - Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
 - Developed an svg icon system with react components
@@ -46,8 +45,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - Learned JavaScript in deep
 - Learned all things JavaScript
 
-**Web Developer, July 2013 - September 2015**
-*Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK*
+**Web Developer, July 2013 - September 2015 | Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**
 - Maintained existing client websites, either statics or cms driven
 - Wrote an extremely fast and lightweight Wordpress theme from scratch
 - Developed a more efficient and effective workflow to develop websites
