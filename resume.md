@@ -34,8 +34,8 @@ I am extremely self-motivated and I love interacting with designers and back-end
  
 ## Professional Experience
 
-**HouseSimple, Online Estate Agents, Colchester, UK**</br>
-**JavaScript Developer, November 2016 - Present**
+**HouseSimple, Online Estate Agents, Colchester, UK</br>
+JavaScript Developer, November 2016 - Present**
 - Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
 - Developed an svg icon system with react components
@@ -48,8 +48,8 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - Learned JavaScript in deep
 - Learned all things JavaScript
 
-**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**</br>
-**Web Developer, July 2013 - September 2015**
+**Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK</br>
+Web Developer, July 2013 - September 2015**
 - Maintained existing client websites, either statics or cms driven
 - Wrote an extremely fast and lightweight Wordpress theme from scratch
 - Developed a more efficient and effective workflow to develop websites
@@ -63,16 +63,16 @@ I am extremely self-motivated and I love interacting with designers and back-end
 
 ## Education
 
-**IT Web Master Certification, Cagliari-Sardinia-Italy**</br>
-**2008 - 2009**
+**IT Web Master Certification, Cagliari-Sardinia-Italy</br>
+2008 - 2009**
 
 Post Graduated course in web sites development
 
-**Natural Science BA (Hons) at Università degli Studi di Cagliari - 5 years**
-**2004**
+**Natural Science BA (Hons) at Università degli Studi di Cagliari - 5 years</br>
+2004**
 
-**Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy**</br> 
-**1990 - 1995**
+**Liceo Classico Siotto Pintor, Cagliari-Sardinia-Italy</br> 
+1990 - 1995**
 
 Attained equivalent of A Levels in: 
 - Programming 
@@ -85,13 +85,6 @@ Attained equivalent of A Levels in:
 - History of Art 
 - Ancient Latin language and literature
 - Ancient Greek language and literature
-
-
-# SIMONPIETRO NONNIS 
-
-| WEBSITE             | CODEPEN        | GITHUB     |
-|:------------------- |:-------------- |:-----------|
-| [robot2](https://robot2.org/) | [SimonNonnis](http://codepen.io/SimonNonnis/)    | [SimoNonnis](https://github.com/SimoNonnis) |
 
 
 | MAIL                 | MOBILE         | SKYPE          |
