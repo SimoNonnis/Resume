@@ -5,9 +5,9 @@
 | [robot2](https://robot2.org/) | [SimonNonnis](http://codepen.io/SimonNonnis/)    | [SimoNonnis](https://github.com/SimoNonnis) |
 
 
-| MAIL                 | MOBILE         | SKYPE          |
-|:-------------------- |:-------------- |:-------------- |
-| simon.nonnis@protonmail.com | +447563 927 412| simonpietro101 |
+| MAIL                 | MOBILE         | 
+|:-------------------- |:-------------- |
+| simon.nonnis@protonmail.com | 07563927412|
 
 ## PROFILE
 
