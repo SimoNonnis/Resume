@@ -81,3 +81,11 @@ Attained equivalent of A Levels in:
 - History of Art 
 - Ancient Latin language and literature
 - Ancient Greek language and literature
+
+## Languages
+
+- Italian (first language)
+- English (fluent)
+- Spanish (fluent)
+- Russian (beginner)
+
