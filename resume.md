@@ -32,7 +32,10 @@ I am extremely self-motivated and I love interacting with designers and back-end
  
 ## Professional Experience
 
-**JavaScript Developer, November 2016 - Present | HouseSimple, Online Estate Agents, Colchester, UK**
+**Front-end Developer, August 2018 - Present | wi-Q, Web based mobile ordering software for hospitality, UK**
+- Working on the front-end using React, Redux, Immutable, styled-components
+
+**JavaScript Developer, November 2016 - August 2018 | HouseSimple, Online Estate Agents, Colchester, UK**
 - Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
 - Developed an svg icon system with react components
