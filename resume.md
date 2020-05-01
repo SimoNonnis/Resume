@@ -52,7 +52,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - Maintained existing client websites, either statics or cms driven
 - Wrote an extremely fast and lightweight Wordpress theme from scratch
 - Developed a more efficient and effective workflow to develop websites
-- Developed new strategies to manage interaction beetwen graphic designers, developers, project managers
+- Developed new strategies to manage interaction between graphic designers, developers, project managers
 - Worked from PSDs created by the designer to develop and deploy landing pages and responsive websites in WordPress
 
 **Freelance Web Developer, 2009 - July 2013**
