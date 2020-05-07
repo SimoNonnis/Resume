@@ -69,7 +69,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
 
 **IT Web Master Certification, Cagliari-Sardinia-Italy | 2008/2009**
 
-Post Graduated course in web sites development
+- Post Graduated course in web sites development
 
 **Natural Science BA (Hons) at Università degli Studi di Cagliari | 5 years**
 
