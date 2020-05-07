@@ -1,13 +1,9 @@
 # SIMONPIETRO NONNIS 
 
-| WEBSITE              | GITHUB     |
-|:-------------------  |:-----------|
-| [robot2](https://robot2.org/) | [SimoNonnis](https://github.com/SimoNonnis) |
-
-
-| MAIL                 | MOBILE         | 
-|:-------------------- |:-------------- |
-| simon.nonnis@protonmail.com | +447563927412|
+## WEBSITE: [robot2](https://robot2.org/)
+## GITHUB: [SimoNonnis](https://github.com/SimoNonnis)
+## MAIL: simon.nonnis@protonmail.com
+## TEL: +447563927412
 
 ## PROFILE
 
