@@ -33,9 +33,11 @@ I am extremely self-motivated and I love interacting with designers and back-end
 ## Professional Experience
 
 **Front-end Developer, August 2018 - Present | wi-Q, Web based mobile ordering software for hospitality, UK**
+
 - Working on the front-end using React, Redux, Immutable, styled-components
 
 **JavaScript Developer, November 2016 - August 2018 | HouseSimple, Online Estate Agents, Colchester, UK**
+
 - Built many forms (API driven) using React, Redux, Redux saga, Formik
 - Created several react components that use styled-components (Tabs, ProgressBar, PostcodeLookup, FileUploader, RadioBox, Input, CheckBox, TextArea, Button)
 - Developed an svg icon system with react components
@@ -45,10 +47,12 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - Built the front-end of a *Sales predictor* feature using html, css3, vanilla JS, APIs
 
 **JavaScript Developer, October 2015 - October 2016**
+
 - Learned JavaScript in deep
 - Learned all things JavaScript
 
 **Web Developer, July 2013 - September 2015 | Ignitehospitality, Digital Marketing & Branding for Hospitality, London, UK**
+
 - Maintained existing client websites, either statics or cms driven
 - Wrote an extremely fast and lightweight Wordpress theme from scratch
 - Developed a more efficient and effective workflow to develop websites
@@ -56,6 +60,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - Worked from PSDs created by the designer to develop and deploy landing pages and responsive websites in WordPress
 
 **Freelance Web Developer, 2009 - July 2013**
+
 - Learned Html, Css and JQuery building a wide array of websites
 - Acquired a deep understanding of usability, user experience design principles, typography, white space balance
 - Developed a keen eye for details
