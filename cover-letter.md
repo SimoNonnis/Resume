@@ -1,4 +1,4 @@
-==== EN
+# EN
 Dear Sir/Madam,
 
 This letter is to express my interest in regards to the ....front end developer...... position,
@@ -24,4 +24,4 @@ Portfolio: https://robot2.org/
 Sincerely,
 
 Simonpietro Nonnis
-==== EN
+
