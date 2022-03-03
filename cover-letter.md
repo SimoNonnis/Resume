@@ -1,7 +1,7 @@
 # EN
 Dear Sir/Madam,
 
-This letter is to express my interest in regards to the ....front end developer...... position,
+This letter is to express my interest in regards to the [FRONT_END_DEVELOPER] position,
 hoping to become the newest member of your engineering team.
 I looked through the requirements that you mentioned and they match my skills, expertise, 
 experience and attitudes. 
