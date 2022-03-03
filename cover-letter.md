@@ -51,7 +51,7 @@ Simonpietro Nonnis
 Я буду очень рад обсудить эту позицию с вами более подробно. Благодарю за уделенное моему письму время. 
 Прилагаю копию своего резюме, в котором подробно описан мой опыт, а также веб-сайт моего портфолио.
 
-* GitHub: https://github.com/SimoNonnis 
+* GitHub: https://github.com/SimoNonnis
 * Portfolio: https://robot2.org/
 
 С уважением,
