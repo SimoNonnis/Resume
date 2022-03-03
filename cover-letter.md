@@ -14,9 +14,9 @@ I am confident that I can bring it into your company as well.
 I enjoy working in a team as well as working independently in an office or remotely.
 
 I speak 4 languages:
-Italian - native
-Spanish - fluent
-English - fluent
+Italian - native,
+Spanish - fluent,
+English - fluent,,
 Russian - pre-intermediate, learning.
 
 I am looking forward to discussing this position with you in more detail. 
@@ -43,10 +43,10 @@ Simonpietro Nonnis
 Я уверен, что смогу принести это и в вашу компанию. Мне нравится работать в команде, а также работать независимо в офисе или удаленно.
 
 Я Я говорю на 4 языах:
-Итальянский - носитель
-Английский - свобдный
-Испанский - свободный
-Русский - средний, в процессе изучения. 
+Итальянский - носитель,
+Английский - свобдный,
+Испанский - свободный,
+Русский - средний уровень, в процессе изучения. 
 
 Я буду очень рад обсудить эту позицию с вами более подробно. Благодарю за уделенное моему письму время. 
 Прилагаю копию своего резюме, в котором подробно описан мой опыт, а также веб-сайт моего портфолио.
