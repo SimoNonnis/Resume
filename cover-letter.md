@@ -16,7 +16,7 @@ I enjoy working in a team as well as working independently in an office or remot
 I speak 4 languages:
 Italian - native,
 Spanish - fluent,
-English - fluent,,
+English - fluent,
 Russian - pre-intermediate, learning.
 
 I am looking forward to discussing this position with you in more detail. 
