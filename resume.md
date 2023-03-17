@@ -7,7 +7,7 @@
 
 ## PROFILE
 
-This Resume covers more than 10 years of hands-on experience working on the field of front-end development, 
+This Resume covers more than 13 years of hands-on experience working on the field of front-end development, 
 building state-of-the-art web apps, components, websites and always seeking out new technologies.
 
 I would welcome the opportunity to work for a passionate, disciplined and brave team, that loves to write clean code and willing to use technologies like React, Redux, Redux saga, Functional programming in Javascript, Flexbox, Css grid layout, Styled components.
@@ -25,6 +25,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
 - [x] **ImmutableJS**
 - [x] **Git, Bitbucket**
 - [x] **JIRA**
+- [x] **TypeScript** 
  
 ## Professional Experience
 
