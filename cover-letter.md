@@ -59,6 +59,10 @@ I’ve attached a copy of my resume that details my experience, along with my po
 * GitHub:    https://github.com/SimoNonnis
 * Portfolio: https://robot2.org/
 
+I am married to a Russian citizen and have a Russian child. 
+I have applied for a permanent residency, which should be in place at the beginning of April this year. 
+I am currently located in Kaluga.
+
 Sincerely,
 
 Simonpietro Nonnis
