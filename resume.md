@@ -2,8 +2,7 @@
 
 ## WEBSITE: [robot2](https://robot2.org/)
 ## GITHUB: [SimoNonnis](https://github.com/SimoNonnis)
-## MAIL: simon.nonnis@hey.com
-## TEL: +447563927412
+## MAIL: simon.nonnis@mail.ru
 
 ## PROFILE
 
