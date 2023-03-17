@@ -24,7 +24,7 @@
 
 Я - православный христианин, люблю Россию и работать во благо страны. 
 Я женат на россиянке, у нас есть ребёнок. Я подал документы на вид на жительство, которое должен получить в начале апреля этого года.
-В настоящее время я нахожусь в Калуге.
+В настоящее время я нахожусь в Калуге, но мы с женой готовы переехать в другой регион, если это будет необходимо для работы.
 
 С уважением,
 Симонпьетро Ноннис
@@ -55,7 +55,7 @@ Russian - pre-intermediate, learning.
 I am looking forward to discussing this position with you in more detail. 
 Thank you for your consideration.
 
-I’ve attached a copy of my resume that details my experience, along with my portfolio website.
+Here is the link to my GitHub account and my portfolio website.
 
 * GitHub:    https://github.com/SimoNonnis
 * Portfolio: https://robot2.org/
