@@ -28,7 +28,7 @@ I am extremely self-motivated and I love interacting with designers and back-end
  
 ## Professional Experience
 
-**Front-end Developer, August 2018 - Present | wi-Q, Web based mobile ordering software for hospitality, UK**
+**Front-end Developer, August 2018 - September 2022 | wi-Q, Web based mobile ordering software for hospitality, UK**
 
 - Working on the front-end using React, Redux, Immutable, styled-components
 
