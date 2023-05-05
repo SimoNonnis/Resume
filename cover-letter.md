@@ -20,7 +20,7 @@
 Здесь ссылка на мой аккаунт на GitHub и веб-сайт моего портфолио:
 
 * GitHub: https://github.com/SimoNonnis
-* Portfolio: https://robot2.org/
+* Portfolio: https://nonnis.ru/
 
 Я женат на россиянке, у нас есть ребёнок. Я подал документы на вид на жительство, которое должен получить в начале апреля этого года.
 В настоящее время я нахожусь в Калуге, но мы с женой готовы переехать в другой регион, если это будет необходимо для работы.
@@ -57,7 +57,7 @@ Thank you for your consideration.
 Here is the link to my GitHub account and my portfolio website.
 
 * GitHub:    https://github.com/SimoNonnis
-* Portfolio: https://robot2.org/
+* Portfolio: https://nonnis.ru/
 
 I am married to a Russian citizen and have a Russian child. 
 I have applied for a permanent residency, which should be in place at the beginning of April this year. 
