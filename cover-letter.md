@@ -60,7 +60,7 @@ Here is the link to my GitHub account and my portfolio website.
 * Portfolio: https://nonnis.ru/
 
 I am married to a Russian citizen and have a Russian child. 
-I have applied for a permanent residency, which should be in place at the beginning of April this year. 
+I have a permanent residency to live in RF. 
 I am currently located in Kaluga. My wife and I are willing to relocate if a job requires so.
 
 Sincerely,
